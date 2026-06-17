@@ -4,9 +4,6 @@
 
 ### Direct Download (https://github.com/Pedritochi/MPGA/releases/download/0.1/MPGA_Portable.exe)
 
-Made by **Pedritochi ^_^**  
-Stylized with a touch of **Frutiger Aero** aesthetic 
-
 ![Frutiger Aero Vibes](https://media1.tenor.com/m/3zXpgzH1Y6cAAAAd/frutiger-aero.gif)
 
 ---
